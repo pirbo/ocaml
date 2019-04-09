@@ -761,6 +761,7 @@ outputexe
 unixlib
 unix_or_win32
 systhread_support
+ostype
 system
 model
 arch64
@@ -2720,6 +2721,7 @@ VERSION=4.09.0+dev0-2019-01-18
 # Note: This is present for the flexdll bootstrap where it exposed as the old
 # TOOLPREF variable. It would be better if flexdll where updated to require
 # WINDRES instead.
+
 
 
 
